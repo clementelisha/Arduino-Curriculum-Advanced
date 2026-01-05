@@ -17,7 +17,8 @@
     * **Resistors:** How to read the colored stripes to find their value.
     * **Tolerance:** Understanding that parts aren't always 100% perfect.
 
-[attachment_0](attachment)
+![Resistor Color Codes](https://raw.githubusercontent.com/clementelisha/Arduino-Curriculum-Advanced/refs/heads/main/IMG_4114.jpeg)
+
 
 ---
 
@@ -60,7 +61,8 @@
     * **DC Motors:** Controlling speed for wheels.
     * **Servo Motors:** Moving an arm or a flap to a specific angle.
 
-[attachment_1](attachment)
+![Resistor Color Code](https://raw.githubusercontent.com/clementelisha/Arduino-Curriculum-Advanced/refs/heads/main/IMG_4114.jpeg)
+
 
 ---
 
