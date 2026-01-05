@@ -61,7 +61,8 @@
     * **DC Motors:** Controlling speed for wheels.
     * **Servo Motors:** Moving an arm or a flap to a specific angle.
 
-![Resistor Color Code](https://raw.githubusercontent.com/clementelisha/Arduino-Curriculum-Advanced/refs/heads/main/IMG_4114.jpeg)
+
+![Arduino Project Image](https://raw.githubusercontent.com/clementelisha/Arduino-Curriculum-Advanced/refs/heads/main/IMG_4115.jpeg)
 
 
 ---
